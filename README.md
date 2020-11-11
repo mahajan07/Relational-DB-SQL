@@ -11,3 +11,11 @@
 #### Task 5: Join tables together to produce meaningful reports
 
 ### Project Structure 2
+## Build a Database from a Relational Model
+
+#### Task 1: The Relational Model
+#### Task 2: Build a Table with the SQLiteStudio GUI
+#### Task 3: Build a table with SQL code
+#### Task 4: The Combination Key
+#### Task 5: Test Data
+#### Task 6: Test the Database Design
