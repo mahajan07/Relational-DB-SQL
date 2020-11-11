@@ -1,5 +1,5 @@
 # Relational DB & SQL 
-## For work and practice in <U> MYSQL Workbench </U>
+## For work and practice in <U> MYSQL Workbench <\U>
 
 ### Introduction to Relational Database and SQL
 ### Project Structure 1
