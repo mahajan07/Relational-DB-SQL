@@ -1,4 +1,4 @@
-<center> # Relational DB & SQL </center>
+# <center> Relational DB & SQL </center>
 ## For work and practice in <U> <B> MYSQL Workbench </U></B>
 
 ### Introduction to Relational Database and SQL
