@@ -1,8 +1,9 @@
 # Relational Database & SQL Projects
 ## We can use Mysql, SQL Server, SQLite, Oracle for Database design and querying.
-## For work and practice in MYSQL Workbench
+
 
 # Introduction to Relational Database and SQL
+## For work and practice in MYSQL Workbench
 ### [Project Structure 1](https://github.com/mahajan07/Relational-DB-SQL/blob/main/workbook.sql)
 ## For work and practice in MYSQL Workbench
 #### Task 1: Know what tables are and write basic SELECT statements.
@@ -25,7 +26,7 @@
 
 
 # Intermediate Relational Database and SQ
-## [Project Structure 3]()
+### [Project Structure 3]()
 #### Task 1: User interface orientation
 #### Task 2: Preview finished products
 #### Task 3: Creating and dropping databases
