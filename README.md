@@ -22,3 +22,15 @@
 #### Task 4: The Combination Key - You will build the last table in the database as you explore two methods of creating combination keys.
 #### Task 5: Test Data - In preparation for writing queries to test the database design, you will populate the tables with data while maintaining common data values for the common columns that relate tables.
 #### Task 6: Test the Design - To validate the relational model database design, you will write and run a series of queries.
+
+
+# Intermediate Relational Database and SQ
+## [Project Structure 3]()
+#### Task 1: User interface orientation
+#### Task 2: Preview finished products
+#### Task 3: Creating and dropping databases
+#### Task 4: Creating and dropping tables
+#### Task 5: Creating and dropping primary keys
+#### Task 6: Create and drop indexes
+#### Task 7: Create and drop foreign keys
+#### Task 8: Testing and creating technical documentation
