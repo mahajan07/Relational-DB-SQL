@@ -2,7 +2,7 @@
 ## For work and practice in MYSQL Workbench
 
 ### Introduction to Relational Database and SQL
-### [Project Structure 1]()
+### [Project Structure 1](https://github.com/mahajan07/Relational-DB-SQL/blob/main/workbook.sql)
 
 #### Task 1: Know what tables are and write basic SELECT statements.
 #### Task 2: Use wildcard characters for pattern matching, and sort query results.
