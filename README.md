@@ -1,4 +1,5 @@
 # Relational Database & SQL Projects
+## We can use Mysql, SQL Server, SQLite, Oracle for Database design and querying.
 ## For work and practice in MYSQL Workbench
 
 # Introduction to Relational Database and SQL
