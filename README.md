@@ -26,7 +26,7 @@
 
 
 # Intermediate Relational Database and SQ
-### [Project Structure 3]()
+### [Project Structure 3](https://github.com/mahajan07/Relational-DB-SQL/blob/main/Intermediate/workbook.sql)
 #### Task 1: User interface orientation
 #### Task 2: Preview finished products
 #### Task 3: Creating and dropping databases
