@@ -1,4 +1,4 @@
-# Relational Database & SQL Project
+# Relational Database & SQL Projects
 ## We can use Mysql, SQL Server, SQLite, Oracle for Database design and querying.
 
 
