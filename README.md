@@ -25,7 +25,7 @@
 #### Task 6: Test the Design - To validate the relational model database design, you will write and run a series of queries.
 
 
-# Intermediate Relational Database and SQ
+# Intermediate Relational Database and SQL
 ### [Project Structure 3](https://github.com/mahajan07/Relational-DB-SQL/blob/main/Intermediate/workbook.sql)
 #### Task 1: User interface orientation
 #### Task 2: Preview finished products
